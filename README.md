@@ -10,6 +10,7 @@ A collection of concise summaries covering essential backend engineering concept
 | [Background Jobs](background-jobs-notes/background-jobs-summary.md) | Task queues, async processing, retries, and worker patterns |
 | [Caching](caching-notes/caching-summary.md) | Caching strategies and implementation patterns |
 | [Database](database-notes/database-concepts-summary.md) | Database concepts and design principles |
+| [Error Handling](error-handling-notes/error-handling-summary.md) | Fault tolerance, error types, recovery strategies, and security |
 | [Handlers & Middleware](handlers-notes/handlers-middleware-context-summary.md) | Request handling and middleware patterns |
 | [HTTP Protocol](http-notes/http-protocol-summary.md) | HTTP fundamentals and protocol details |
 | [REST API Design](rest-api-notes/rest-api-design-summary.md) | RESTful API design principles |
