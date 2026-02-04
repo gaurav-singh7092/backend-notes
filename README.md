@@ -14,6 +14,7 @@ A collection of concise summaries covering essential backend engineering concept
 | [Error Handling](error-handling-notes/error-handling-summary.md) | Fault tolerance, error types, recovery strategies, and security |
 | [Handlers & Middleware](handlers-notes/handlers-middleware-context-summary.md) | Request handling and middleware patterns |
 | [HTTP Protocol](http-notes/http-protocol-summary.md) | HTTP fundamentals and protocol details |
+| [Logging & Observability](logging-notes/logging-monitoring-observability-summary.md) | Logs, metrics, traces, and monitoring tools |
 | [REST API Design](rest-api-notes/rest-api-design-summary.md) | RESTful API design principles |
 | [Routing](routing-notes/rest-api-routing-summary.md) | API routing patterns and implementation |
 | [Search](search-notes/search-summary.md) | Elasticsearch, inverted index, BM25, and full-text search |
