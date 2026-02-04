@@ -12,6 +12,7 @@ A collection of concise summaries covering essential backend engineering concept
 | [Configuration Management](config-management-notes/config-management-summary.md) | Environment configs, secrets, feature flags, and validation |
 | [Database](database-notes/database-concepts-summary.md) | Database concepts and design principles |
 | [Error Handling](error-handling-notes/error-handling-summary.md) | Fault tolerance, error types, recovery strategies, and security |
+| [Graceful Shutdown](graceful-shutdown-notes/graceful-shutdown-summary.md) | Process signals, connection draining, and resource cleanup |
 | [Handlers & Middleware](handlers-notes/handlers-middleware-context-summary.md) | Request handling and middleware patterns |
 | [HTTP Protocol](http-notes/http-protocol-summary.md) | HTTP fundamentals and protocol details |
 | [Logging & Observability](logging-notes/logging-monitoring-observability-summary.md) | Logs, metrics, traces, and monitoring tools |
